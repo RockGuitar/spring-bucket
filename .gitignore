@@ -34,3 +34,6 @@ build/
 /pom.xml
 /mvnw
 /mvnw.cmd
+/src/test/java/springbucket/SpringBucketApplicationTests.java
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
